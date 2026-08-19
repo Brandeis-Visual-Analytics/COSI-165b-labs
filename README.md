@@ -58,13 +58,3 @@ Then open the lab you want. Requirements vary a little by lab; each notebook ins
 ## Getting help
 
 Raise your hand to ask questions during class, or work with your neighber.  For conceptual questions, please come to office hours. If a notebook has a typo or a bug, let me know via email (or open an issue on this repo) and I'll fix it.
-
----
-
-<sub>**Maintainer note (instructor):** to give each notebook a one-click Colab button, paste this as the first cell (a Markdown cell), replacing the path:</sub>
-
-```markdown
-<a href="https://colab.research.google.com/github/<github-user>/<repo>/blob/main/path/to/lab.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-```
-
-<sub>The badge renders both on GitHub and inside Colab, so students landing on the GitHub file can open it in one click.</sub>
