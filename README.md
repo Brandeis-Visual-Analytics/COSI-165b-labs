@@ -36,13 +36,13 @@ This puts a personal copy in your Google Drive (in a folder called *Colab Notebo
 1. Make sure you've **run the cells** so your outputs are visible, and that your Drive copy is saved (it autosaves).
 2. Click **Share** (top-right in Colab). Under **General access**, change *Restricted* to **“Brandeis University,”** and set the role to **Viewer**.
 3. Click **Copy link.**
-4. Paste that link into the lab's assignment on the course **LMS**.
+4. Paste that link into the lab's assignment on our Moodle page.
 
 That's the whole submission — the link lets me open and read your notebook (code and outputs) with no file uploads and no email. A few notes:
 
 - **Do not** use *Share → add people → my email*; that floods my inbox with notifications. Link-sharing sends nothing.
 - Keep the access set to **Brandeis University / Viewer** so I can open it while signed into my Brandeis account.
-- I see the **current** version when I open the link, and the LMS records your submission time — so once you submit, don't keep editing that copy.
+- I see the **current** version when I open the link, and Moodle records your submission time — so once you submit, don't keep editing that copy.
 ---
 
 ## Running a lab locally (if you prefer your own machine)
