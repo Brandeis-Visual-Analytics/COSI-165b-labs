@@ -31,12 +31,18 @@ This puts a personal copy in your Google Drive (in a folder called *Colab Notebo
 
 **3. Come back to it later.** Reopen your saved copy any time from [drive.google.com](https://drive.google.com) or from Colab's **File → Open notebook → Recent**. Your code and outputs will be right where you left them — handy if you don't finish in class.
 
-**4. Submit it for grading.** When you're done, submit the notebook **with its outputs**:
+**4. Submit it for grading — share the link (don't download, don't email).** When you're done:
 
-> **File → Download → Download .ipynb**
+1. Make sure you've **run the cells** so your outputs are visible, and that your Drive copy is saved (it autosaves).
+2. Click **Share** (top-right in Colab). Under **General access**, change *Restricted* to **“Brandeis University,”** and set the role to **Viewer**.
+3. Click **Copy link.**
+4. Paste that link into the lab's assignment on the course **LMS**.
 
-and upload that file to the corresponding assignment on the course LMS. (If the assignment asks for a share link instead, use **Share** on your Drive copy and follow the submission instructions for that week.)
+That's the whole submission — the link lets me open and read your notebook (code and outputs) with no file uploads and no email. A few notes:
 
+- **Do not** use *Share → add people → my email*; that floods my inbox with notifications. Link-sharing sends nothing.
+- Keep the access set to **Brandeis University / Viewer** so I can open it while signed into my Brandeis account.
+- I see the **current** version when I open the link, and the LMS records your submission time — so once you submit, don't keep editing that copy.
 ---
 
 ## Running a lab locally (if you prefer your own machine)
@@ -52,6 +58,8 @@ jupyter lab                                             # or: jupyter notebook
 ```
 
 Then open the lab you want. Requirements vary a little by lab; each notebook installs or imports what it needs at the top.
+
+I would still like for you to upload it to Google Drive and share it with me in the format above, to make grading easier.
 
 ---
 
